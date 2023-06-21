@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">
+Hi There 👋 <br> 
+This is Deni Hidayat
+</h1>
 
-<!--
-**denihida1216/denihida1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+FullStack Developer
+</h3>
 
-Here are some ideas to get you started:
+ <p align="center">
+  <img src="https://habib.al-mawali.com/wp-content/uploads/ibm-cloud.png" alt="ibm certified" width="126" height="80"/>
+  <!-- <img src="https://habib.al-mawali.com/wp-content/uploads/KTBase-Technologies.png" alt="ktbase" width="133" height="80"/> -->
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
+  
+  <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
+ </p>
+ 
+
+
+<p align="center">
+  <a href="https://github.com/denihida1216">
+    <img src="https://github-readme-stats.vercel.app/api?username=denihida1216&count_private=true&hide_border=true&show_icons=true" alt="Deni Hidayat's github stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/denihida1216">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denihida1216&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Deni Hidayat's github stats">
+  </a>
+</p>
